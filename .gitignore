@@ -35,5 +35,5 @@ nbdist/
 *.factorypath
 
 ### hidden
-resources
-!resources/application.yml
+resources/
+
